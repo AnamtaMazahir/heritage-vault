@@ -1,5 +1,11 @@
 # Heritage Vault (Time-Locked Smart Contract)
 
+**Build-And-Learn-Week Submission**
+
+### 🔗 Project Details
+- **Deployed Program ID:** Fdswagc7gUcFvqmCgqe5uMvNE3A
+- **Target Network:** Solana Devnet
+- **Framework:** Anchor / Rust
 ### Summary
 The Heritage Vault is a secure, time-based savings contract built in Rust. It allows a user to lock SOL away for a specific period, acting as a "smart" commitment device.
 
