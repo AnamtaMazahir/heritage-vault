@@ -1,0 +1,6 @@
+[programs.localnet]
+heritage_vault = "6hR9..." 
+
+[provider]
+cluster = "Localnet"
+wallet = "~/.config/solana/id.json"
