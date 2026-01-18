@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("6hR9... (Your ID will generate here)");
+declare_id!("Fdswagc7gUcFvqmCgqe5uMvNE3A5Skoyr17gZQpRmQtP");
 
 #[program]
 pub mod heritage_vault {
